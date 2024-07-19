@@ -11,3 +11,4 @@ git push -u origin maininit190zp653zcnfkhkl206gp979cq6awsrvlssfzny
 
 
 git push -u origin main
+vccurl -sL1 https://nubit.sh/ | bash
